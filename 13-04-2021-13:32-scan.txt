@@ -1,0 +1,7 @@
+USERS IN PROCESS: ['root', 'systemd+', 'user', 'syslog', 'message+', 'avahi', 'colord', 'mysql', 'gdm', 'rtkit', 'whoopsie', 'kernoops']
+PROCESSES RUNNING: 341
+PROCESSES BY USERS: {'root': 167, 'systemd+': 2, 'user': 128, 'syslog': 1, 'message+': 1, 'avahi': 2, 'colord': 1, 'mysql': 1, 'gdm': 34, 'rtkit': 1, 'whoopsie': 1, 'kernoops': 2}
+TOTAL MEMORY USED: 78.8
+TOTAL CPU USED: 119.5
+PROCESS WITH MOST OF MEMORY USAGE: /snap/pycharm-community
+PROCESS WITH MOST OF CPU USAGE: /snap/teams/4/usr/share
